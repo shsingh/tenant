@@ -19,7 +19,7 @@ func main() {
 		Authors: []*cli.Author{
 			&cli.Author{
 				Name:  "Shain Singh",
-				Email: "shsingh@ieee.org",
+				Email: "shsingh@linux.com",
 			},
 		},
 		Action: func(c *cli.Context) error {
